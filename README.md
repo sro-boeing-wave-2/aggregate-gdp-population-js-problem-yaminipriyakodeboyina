@@ -16,6 +16,8 @@ The `datafile.csv` is present in the data folder, which you would want to aggreg
 
 In order to aggregate Countries by Continent you would have to rely on any external source, but the aggregated output should be in coherence with `test/expected-output.json`.
 
+**Note:** No external node package can be used.
+
 ## Instructions to Run and Evaluate
 
 ```
