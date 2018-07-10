@@ -1,0 +1,26 @@
+{
+  "name": "gdp-population-data-js-problem",
+  "version": "1.0.0",
+  "description": "**Objective:** The objective is to aggregate the Population and GDP of year 2012 of G20 Countries by continent. The intent is to deeply understand the following things:",
+  "main": "aggregate.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "mocha",
+    "lint": "eslint ."
+  },
+  "keywords": [
+    "data",
+    "munging"
+  ],
+  "author": "Nishant Jain",
+  "license": "ISC",
+  "devDependencies": {
+    "eslint": "^5.1.0",
+    "eslint-config-airbnb-base": "^13.0.0",
+    "eslint-plugin-import": "^2.13.0",
+    "mocha": "^5.2.0",
+    "should": "^13.2.1"
+  }
+}

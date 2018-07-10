@@ -1,0 +1,16 @@
+sudo: required
+notifications:
+  email:
+    on_success: always
+    on_failure: always
+  slack: srboeingdotnet:pZz5KfrgntyjLpS9a1d2b1rH
+language: node_js
+node_js:
+- node
+os:
+- linux
+install:
+- npm install
+script:
+- npm run lint
+- npm run test
