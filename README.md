@@ -9,7 +9,12 @@
 
 ## Instructions for the Assignment
 
-Write a NodeJS program to aggregate the Population and GDP of year 2012 of G20 Countries by continent.
+Write a NodeJS program to aggregate the Population and GDP of year 2012 of G20 Countries by
+Continent in `output/output.json`.
+
+The `datafile.csv` is present in the data folder, which you would want to aggregate.
+
+In order to aggregate Countries by Continent you would have to rely on any external source, but the aggregated output should be in coherence with `test/expected-output.json`.
 
 ## Instructions to Run and Evaluate
 
