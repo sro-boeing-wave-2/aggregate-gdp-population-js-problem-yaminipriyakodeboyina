@@ -20,7 +20,7 @@ In order to aggregate Countries by Continent you would have to rely on any exter
 
 ```
 # Add remote to the starter code
-git remote add starter <url to be added>
+git remote add starter https://github.com/sro-boeing-wave-2/aggregate-gdp-population-js-problem
 
 # Install all the dependencies
 npm install
