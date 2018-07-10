@@ -1,6 +1,6 @@
 # Aggregate GDP and Population
 
-**Objective:** The objective is to aggregate the Population and GDP of year 2012 of G20 Countries by continent. The intent is to deeply understand the following things:
+**Objective:** The objective is to aggregate the Population and GDP of year 2012 of G20 Countries by continent. The intent is to understand the following things:
 
 1. Objects
 2. Arrays
@@ -29,4 +29,4 @@ npm test
 
 ## Issues
 
-Incase of any issues raise an issue on
+Incase of any issues raise an issue on https://github.com/nishant-jain-94/aggregate-gdp-population-js-problem/issues
