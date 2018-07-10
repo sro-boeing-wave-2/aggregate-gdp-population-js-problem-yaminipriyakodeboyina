@@ -1,3 +1,8 @@
+/**
+ * @fileOverview The intent is to run the aggregate.js
+ * and test the aggregated value at output/output.json
+ * @author Nishant Jain
+ */
 const fs = require('fs');
 const path = require('path');
 const should = require('should');
